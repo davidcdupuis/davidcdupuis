@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**davidcdupuis/davidcdupuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Linkedin Badge](https://img.shields.io/badge/-davidcdupuis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://fr.linkedin.com/in/davidcdupuis)](https://www.linkedin.com/in/davidcdupuis)
+
+![David_Dupuis github stats](https://github-readme-stats.vercel.app/api?username=davidcdupuis&show_icons=true&include_all_commits=true&count_private=true&hide=issues,stars,prs)
