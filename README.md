@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🌳 I’m currently working on my startup: Sharewoods ==> https://sharewoods.io 
-- 👯 I’m collaborating with [Paul TESNIERES](https://github.com/TESNIERES).
-- 💰 I’m looking for help with raising funds ...
+- 🌳 I’m currently working on my startup: <a href="https://sharewoods.io" target="_blank">Sharewoods</a> 
+- 👯 I’m collaborating with <a href="https://github.com/TESNIERES" target="_blank">Paul TESNIERES</a>
+- 💰 We are raising funds
 - 🦌 Ask me about The Strenuous Life 
 - 🦮 Fun fact: I raised a guide dog for the blind
 
