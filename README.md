@@ -1,8 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🌳 I’m currently working on my startup: <a href="https://sharewoods.io" target="_blank">Sharewoods</a> 
-- 👯 I’m collaborating with <a href="https://github.com/TESNIERES" target="_blank">Paul TESNIERES</a>
-- 💰 We are raising funds
+- 👔 Love to work both from the business and technical perspective of products.
+- 📊 Passionate about Data Science
 - 🦌 Ask me about The Strenuous Life 
 - 🦮 Fun fact: I raised a guide dog for the blind
 
